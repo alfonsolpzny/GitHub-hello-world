@@ -39,7 +39,7 @@ D - Deleted files
 #### Añadir un commit
 git commit -m "Mensaje de commit"
 
-#### Agregar commit para modificaciones simples
+#### Agregar commit para cuando no se creo un archivo y solo se modifico
 gir commit -a -m "info"
 
 #### ver los commits

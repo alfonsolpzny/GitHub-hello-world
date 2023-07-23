@@ -44,3 +44,9 @@ gir commit -a -m "info"
 
 #### ver los commits
 git log
+
+#### ver opciones del comando
+git comad -help
+
+#### ver todos los comandos
+git help --all

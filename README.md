@@ -50,3 +50,13 @@ git comad -help
 
 #### ver todos los comandos
 git help --all
+
+#### Crear una nueva rama (branch)
+git branch name-branch
+
+#### Cambiarse a una rama
+git checkout name-branch
+
+#### ver las ramas existentes
+git branch
+

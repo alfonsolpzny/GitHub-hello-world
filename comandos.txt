@@ -5,3 +5,5 @@ cd "directorio"
 git init
 
 ls - lista los archivos
+
+git add "nombre de archivo"

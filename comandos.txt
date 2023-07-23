@@ -1,0 +1,7 @@
+git config --global user.name "alfonso"
+git config --global user.email "luislopezanaya@outlook.com"
+
+cd "directorio"
+git init
+
+ls - lista los archivos

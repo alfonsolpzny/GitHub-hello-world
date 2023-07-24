@@ -73,6 +73,11 @@ Ya en la rama master o la que se quiera afectar ejecutar el comando `add file.ex
 `git checkout -b branch-name`
 
 # Iniciar un repositorio en github
+Crear un repositorio nuevo en github y ejecutar el siguiente comado con la url del repositorio que se crea
+`git remote add origin url`
+
+#### Despues subir los archivos
+`git push --set-upstream origin master`
 
 
 

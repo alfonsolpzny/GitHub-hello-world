@@ -70,7 +70,7 @@ Nota: Antes de mezclar, en la rama que se edito se tiene que ejecutar el comado 
 Ya en la rama master o la que se quiera afectar ejecutar el comando add file.extencion o add --all y hacer otro commit
 
 #### Eliminar una rama 
-git checkout -b branch-name
+`git checkout -b branch-name`
 
 
 

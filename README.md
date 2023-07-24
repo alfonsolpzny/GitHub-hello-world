@@ -54,9 +54,24 @@ git help --all
 #### Crear una nueva rama (branch)
 git branch name-branch
 
+#### ver las ramas existentes
+gir branch
+
 #### Cambiarse a una rama
 git checkout name-branch
 
-#### ver las ramas existentes
-git branch
+#### crear una rama y cambiarse directamente a esa rama
+git checkou -d branch-name
+
+#### Mesclar una rama
+git merge branch-name
+Nota: Antes de mezclar, en la rama que se edito se tiene que ejecutar el comado add --all y luego hacer commit. Despues se tiene que cambiar a la rama donde quieres que afecte la mezcla ahora ejecutar merge con el nombre de la rama que se edito.
+
+Ya en la rama master o la que se quiera afectar ejecutar el comando add file.extencion o add --all y hacer otro commit
+
+#### Eliminar una rama 
+git checkout -b branch-name
+
+
+
 

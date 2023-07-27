@@ -79,7 +79,7 @@ Crear un repositorio nuevo en github y ejecutar el siguiente comado con la url d
 #### Despues subir los archivos
 `git push --set-upstream origin master`
 
-#### se edito desde el navegador
+#### se edito desde el navegador nuevo cambio para hecer con pull
 
 
 

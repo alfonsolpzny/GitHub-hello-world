@@ -81,6 +81,9 @@ Crear un repositorio nuevo en github y ejecutar el siguiente comado con la url d
 
 #### se edito desde el navegador nuevo cambio para hecer con pull
 
+#### actualizar archivos cuando se editan en otra parte
+`git pull origin`
+
 
 
 

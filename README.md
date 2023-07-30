@@ -80,11 +80,11 @@ Crear un repositorio nuevo en github y ejecutar el siguiente comado con la url d
 para la primera vez `git push --set-upstream origin master`
 `git push origin master`
 
-#### se edito en otra maquina o en el navegador un nuevo cambio para hecer con pull
+#### Si se hizo commit en otra parte 
 Con el comado `git log origin/master` ven los commit en todas las maquinas hechos.
 Para ver la diferencia entre lo que se edito y lo que esta en la maquina local usar el comando `git giff origin/master`
 
-#### actualizar archivos cuando se editan en otra parte
+#### Para actualizar los archivos cuando se hace commit en otra parte
 `git pull origin`
 
 

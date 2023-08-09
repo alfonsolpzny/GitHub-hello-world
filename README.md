@@ -72,13 +72,14 @@ Ya en la rama master o la que se quiera afectar ejecutar el comando `add file.ex
 #### Eliminar una rama 
 `git checkout -b branch-name`
 
+# para subir los archivos a github es con `push` y para actualizarlos `pull`
+
 # Iniciar un repositorio en github
 Crear un repositorio nuevo en github y ejecutar el siguiente comado con la url del repositorio que se crea
 `git remote add origin url`
 
 #### Despues subir los archivos
 para la primera vez `git push --set-upstream origin master`
-`git push origin master`
 
 #### Si se hizo commit en otra parte 
 Con el comado `git log origin/master` ven los commit en todas las maquinas hechos.
@@ -86,6 +87,10 @@ Para ver la diferencia entre lo que se edito y lo que esta en la maquina local u
 
 #### Para actualizar los archivos cuando se hace commit en otra parte
 `git pull origin`
+
+# Subir las modificaciones a github
+primero hacer un commit despues subir los cambios con el comado `git push origin`
+
 
 
 
